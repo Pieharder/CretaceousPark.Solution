@@ -12,3 +12,13 @@
 /Users/drakewilcox/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/netcoreapp2.2/CretaceousPark.RazorTargetAssemblyInfo.cache
 /Users/drakewilcox/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/netcoreapp2.2/CretaceousPark.dll
 /Users/drakewilcox/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/netcoreapp2.2/CretaceousPark.pdb
+/Users/drakewilcox/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/netcoreapp2.2/CretaceousPark.Views.dll
+/Users/drakewilcox/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/netcoreapp2.2/CretaceousPark.Views.pdb
+/Users/drakewilcox/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/netcoreapp2.2/CretaceousPark.TagHelpers.input.cache
+/Users/drakewilcox/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/netcoreapp2.2/CretaceousPark.TagHelpers.output.cache
+/Users/drakewilcox/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/netcoreapp2.2/CretaceousPark.RazorCoreGenerate.cache
+/Users/drakewilcox/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/drakewilcox/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/drakewilcox/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/netcoreapp2.2/CretaceousPark.RazorTargetAssemblyInfo.cs
+/Users/drakewilcox/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/netcoreapp2.2/CretaceousPark.Views.pdb
+/Users/drakewilcox/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/netcoreapp2.2/CretaceousPark.csproj.CopyComplete

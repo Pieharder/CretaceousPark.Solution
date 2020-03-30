@@ -2959,6 +2959,17 @@
     "CSharpLanguageVersion": 703
   },
   "RootNamespace": "CretaceousPark",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/Users/drakewilcox/Desktop/CretaceousPark.Solution/CretaceousPark/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/drakewilcox/Desktop/CretaceousPark.Solution/CretaceousPark/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
